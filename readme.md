@@ -19,12 +19,11 @@ See [here](https://github.com/Ling-Jun/LSTM-Stock-price/blob/master/requirements
 
 * Alternatively, you can install doctree with (once navigated to doctree directory)
 
->
-   $ pip install -e .
+`$ pip install -e .`
 
 ## How to generate a doc tree:
 Navigate to the folder containing showDirTree.py file, run the following from CLI.
->
-   $ python showDirTree.py --path (uri)
+
+`$ python showDirTree.py --path (uri)`
 
 The default route is set as 'D:/Git/GitWorkingDir/LSTM-Stock-price', change it accordingly.
